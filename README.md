@@ -12,6 +12,6 @@ MovieLens 100K dataset can be downloaded from <a href='https://grouplens.org/dat
 # Theory
 
 Three methods are used in this projectto make the recommendation engine-
- 1.k-Nearest neighbors
- 2.Matrix Factoriation
- 3.Association Rule.
+ 1. k-Nearest neighbors
+ 2. Matrix Factoriation
+ 3. Association Rule.
